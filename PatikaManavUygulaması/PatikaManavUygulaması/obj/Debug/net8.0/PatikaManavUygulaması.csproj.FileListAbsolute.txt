@@ -1,0 +1,14 @@
+C:\Users\EZGİ\Source\Repos\PatikaManavUygulaması\PatikaManavUygulaması\obj\Debug\net8.0\PatikaManavUygulaması.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EZGİ\Source\Repos\PatikaManavUygulaması\PatikaManavUygulaması\obj\Debug\net8.0\PatikaManavUygulaması.AssemblyInfoInputs.cache
+C:\Users\EZGİ\Source\Repos\PatikaManavUygulaması\PatikaManavUygulaması\obj\Debug\net8.0\PatikaManavUygulaması.AssemblyInfo.cs
+C:\Users\EZGİ\Source\Repos\PatikaManavUygulaması\PatikaManavUygulaması\obj\Debug\net8.0\PatikaManavUygulaması.csproj.CoreCompileInputs.cache
+C:\Users\EZGİ\Source\Repos\PatikaManavUygulaması\PatikaManavUygulaması\bin\Debug\net8.0\PatikaManavUygulaması.exe
+C:\Users\EZGİ\Source\Repos\PatikaManavUygulaması\PatikaManavUygulaması\bin\Debug\net8.0\PatikaManavUygulaması.deps.json
+C:\Users\EZGİ\Source\Repos\PatikaManavUygulaması\PatikaManavUygulaması\bin\Debug\net8.0\PatikaManavUygulaması.runtimeconfig.json
+C:\Users\EZGİ\Source\Repos\PatikaManavUygulaması\PatikaManavUygulaması\bin\Debug\net8.0\PatikaManavUygulaması.dll
+C:\Users\EZGİ\Source\Repos\PatikaManavUygulaması\PatikaManavUygulaması\bin\Debug\net8.0\PatikaManavUygulaması.pdb
+C:\Users\EZGİ\Source\Repos\PatikaManavUygulaması\PatikaManavUygulaması\obj\Debug\net8.0\PatikaManavUygulaması.dll
+C:\Users\EZGİ\Source\Repos\PatikaManavUygulaması\PatikaManavUygulaması\obj\Debug\net8.0\refint\PatikaManavUygulaması.dll
+C:\Users\EZGİ\Source\Repos\PatikaManavUygulaması\PatikaManavUygulaması\obj\Debug\net8.0\PatikaManavUygulaması.pdb
+C:\Users\EZGİ\Source\Repos\PatikaManavUygulaması\PatikaManavUygulaması\obj\Debug\net8.0\PatikaManavUygulaması.genruntimeconfig.cache
+C:\Users\EZGİ\Source\Repos\PatikaManavUygulaması\PatikaManavUygulaması\obj\Debug\net8.0\ref\PatikaManavUygulaması.dll
